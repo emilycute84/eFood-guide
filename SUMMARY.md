@@ -10,8 +10,8 @@
 ## Phân hệ chấm suất ăn
 
 * [📋 Quy trình đặt cơm](phan-he-cham-suat-an/quy-trinh-dat-com.md)
-* [🗓 Đặt suất ăn](phan-he-cham-suat-an/dat-suat-an.md)
-* [🗓 Thiết lập mặc định](phan-he-cham-suat-an/thiet-lap-mac-dinh.md)
+* [📋 Đặt suất ăn](phan-he-cham-suat-an/dat-suat-an.md)
+* [📋 Thiết lập mặc định](phan-he-cham-suat-an/thiet-lap-mac-dinh.md)
 * [📋 Quản lý tổng suất ăn](phan-he-cham-suat-an/quan-ly-tong-suat-an.md)
 * [📋 Quy trình duyệt yêu cầu đặt cơm](phan-he-cham-suat-an/quy-trinh-duyet-yeu-cau-dat-com.md)
 
